@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: nzw1992@gmail.com
 description: "关于程序与设计、黑客与画家 | derek，Software Engineer | 这里是 @derek哲 的个人博客，与你一起发现更大的世界。"
 keyword: "derek, 哲, 博客, 个人网站, 互联网, Web"
-url: "https://derekning.me"              # your host, for absolute URL
+url: "http://ning42.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
