@@ -1,10 +1,10 @@
 # Site settings
-title: Derek Blog
-SEOTitle: 哲的博客 | Derek Blog
+title: Ning 42
+SEOTitle: 宁42的博客 | Ning 42
 header-img: img/home-bg.jpg
 email: nzw1992@gmail.com
-description: "关于程序与设计、黑客与画家 | derek，Software Engineer | 这里是 @derek哲 的个人博客，与你一起发现更大的世界。"
-keyword: "derek, 哲, 博客, 个人网站, 互联网, Web"
+description: "关于技术和商业 | tech and business | 这里是 @ning42 的个人博客，与你一起发现更大的世界。"
+keyword: "Ning 42, 宁42, 博客, 技术, 互联网, 商业"
 url: "http://ning42.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -15,7 +15,7 @@ future: true
 RSS: false
 #weibo_username:     derekning
 zhihu_username:     Derek_Ning
-#github_username:    derekning
+github_username:    DerekNing
 #twitter_username:   derekning
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
@@ -78,7 +78,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Just for fun<br>纵情向前"
+sidebar-about-description: "纵情向前"
 sidebar-avatar: /img/cat.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -105,5 +105,9 @@ friends: [
     {
         title: "Werner Vogels",
         href: "https://www.allthingsdistributed.com/"
+    },
+    {
+        title: "Andreessen Horowitz",
+        href: "https://a16z.com/"
     },
 ]
